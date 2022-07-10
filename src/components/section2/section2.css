@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.section2-wrap{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 6%;
+    height: 260px;
+    width: 800px;
+}
+.main-heading-2{
+    font-size: 28px;
+    margin-left: 15px;
+}
+
+.sect-foot-item-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top:10px ;
+    margin-left: 20px;
+    margin-right: 55px;
+    color: #564C58;
+}
+
+.sect2-pic2{
+    height: 200px;
+    width: 200px;
+}
+
+.sect2-pic2{
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
